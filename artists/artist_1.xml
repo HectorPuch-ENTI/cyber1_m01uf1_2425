@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UFT-8" ?>
+<artist id="">
+	<name>Skrillex</name>
+	<nationality country="US" />
+	<birthdate date="1988-01-15" />
+	<albums>
+		<album id="1" />
+	</albums>
+</artist>

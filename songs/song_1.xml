@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="">
+	<title>Scary Monsters and Nice Sprites</title>
+	<artists>
+		<artist id="1">Skrillex</artist>
+		<artist id="2">María del Monte</artist>
+		<artist id="" />
+		<artist id="" />
+	</artists>
+	<genres>
+		<genre id="" />
+		<genre id="" />
+	</genres>
+	<duration seconds="243" />
+	<lyrics lang="en" format="str">
+		Yes, oh my god
+	</lyrics>
+	<album id="" />
+	<record_label id="" />
+</song>
